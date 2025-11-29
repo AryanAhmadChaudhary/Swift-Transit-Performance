@@ -1,6 +1,4 @@
 # Swift-Transit-Performance
-<h1>Transit Performance Analysis</h1>
-
 <p>This project analyzes shipment transit performance using a dataset of 99 shipments. 
 The objective is to flatten nested JSON tracking data, compute transit metrics, and generate detailed and summary CSV outputs for logistics evaluation.</p>
 
